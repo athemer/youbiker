@@ -1,0 +1,6 @@
+framework module Pods_youbike_ios {
+  umbrella header "Pods-youbike-ios-umbrella.h"
+
+  export *
+  module * { export * }
+}
